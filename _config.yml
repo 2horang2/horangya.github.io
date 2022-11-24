@@ -3,14 +3,13 @@ title: Pudhina
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+url: "https://horangya.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
+  fullname: 2horang2
   github: github
   linkedin: linkedin
-  email: example@email.com
+  email: meme11284@gmail.com
 
 
 # Syntax highlighting
@@ -19,5 +18,5 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 
 
 # Build settings
-highlighter: null
+highlighter: a
 markdown: kramdown
